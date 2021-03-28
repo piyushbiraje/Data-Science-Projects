@@ -7,7 +7,7 @@ Owing to my interest in finance and investment, I started studying more about it
 Objectives:
 To build a porfolio of programs that will be used in
 ● Applying financial concepts: portfolio returns, risk, etc.
-● Implementing certain trading strategies (momentum-based, moving average, etc.)
+● Implementing certain trading strategies (momentum-based, moving average, etc.) 
 ● Build Data visualization/ Business intelligence tools
 
 Tools and libraries used:
